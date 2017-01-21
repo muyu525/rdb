@@ -1,0 +1,4 @@
+build/
+*.iml
+signing.properties
+local.peroperties
